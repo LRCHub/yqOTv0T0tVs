@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "月と太陽",
+  "base_artist": "セカンドバッカー",
+  "createdAt": "2026-01-13T09:37:54.697288Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月と太陽",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/01_月と太陽_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月と太陽",
+      "artist": "Koda Kumi",
+      "has_synced": false,
+      "path": "select/02_月と太陽_Koda_Kumi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月と太陽",
+      "artist": "shela",
+      "has_synced": false,
+      "path": "select/03_月と太陽_shela.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "月と太陽",
+      "artist": "倖田來未",
+      "has_synced": false,
+      "path": "select/04_月と太陽_倖田來未.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "月と太陽",
+      "artist": "ク・フィーユ",
+      "has_synced": false,
+      "path": "select/05_月と太陽_ク・フィーユ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "月と太陽",
+      "artist": "Shela",
+      "has_synced": true,
+      "path": "select/06_月と太陽_Shela.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月と太陽",
+      "artist": "セカンドバッカー",
+      "has_synced": false,
+      "path": "select/pl_01_月と太陽_セカンドバッカー.txt"
+    }
+  ]
+}
